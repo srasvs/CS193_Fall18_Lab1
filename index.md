@@ -1,9 +1,9 @@
-#Sera Savas' First CS193 Lab
+### Sera Savas' First CS193 Lab
 
--Purdue
--CS193
--Favorite
--Things
+- Purdue
+- CS193
+- Favorite
+- Things
 
 ## Welcome to GitHub Pages
 
